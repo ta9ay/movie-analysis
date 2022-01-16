@@ -7,5 +7,7 @@ The goal of this project is to analyze this ratings creep through text analysis,
 
 
 ## Data
-I'm using movie metadata, containing MPAA ratings, plot, and other things. I'm also using data from a  different rating agency, "Kids-In-Mind" that rates each movie on sctricter guidelines and has more descriptive scores as compared to the MPAA ratings. <br>
+I'm using movie metadata, containing MPAA ratings, plot, and other things. I'm also using ratings data from an independant rating agency, "Kids-In-Mind", that rates each movie on sctricter guidelines and has more descriptive scores as compared to the MPAA ratings. <br>
 The third dataset is a collection of movie screenplays (n=1093) (IMSDB, n.d.). A screenplay, or script, is a written work by screenwriters for a film, television show, or video games.
+
+### The python notebook can be found in the code folder
